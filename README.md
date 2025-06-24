@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi 👋, I'm Anderson Crush</h1>
+<h1 align="center">Hi 👋, I'm Anderson (Crush) de Lima</h1>
 <h3 align="center">A current IT and data science student.</h3>
 
 
