@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🏢 Formation in **Architecture and ArchViz**.
-- 🖥️ **Computer Science** and **Data Science** student.
+- 🖥️ **Computer Science** student.
 - 🚀 Building the **[Super Smash Bros Museum](https://super-smash-bros-museum.vercel.app)** using **Next.js**, **Prisma**, **Supabase**, and **Gemini AI**.
 - 🤖 Regularly exploring **AI agents** (Gemini, Claude) and integrating LLMs into modern web apps.
 - 🤝 Looking for help and collaboration on **Decompiles** and **CyberSecurity**.
