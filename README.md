@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🏢 Formation in **Architecture and ArchViz**.
-- 🖥️ **Computer Science** student at UNIFOR (GPA / PMG: 90%).
+- 🖥️ **Computer Science** student at UNIFOR (GPA: 3.6/4.0 | PMG: 90%).
 - 👨‍🏫 Teaching Assistant for **Fundamentals of Computer Systems** (Fundamentos de Sistemas Computacionais), providing support and guidance to students.
 - 🚀 Building the **[Super Smash Bros Museum](https://super-smash-bros-museum.vercel.app)** using **Next.js**, **Prisma**, **Supabase**, and **Gemini AI**.
 - 🤖 Regularly exploring **AI agents** (Gemini, Claude) and integrating LLMs into modern web apps.
