@@ -13,15 +13,13 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 Formation in **Architecture and ArchViz**.
-- 🖥️ **Computer Science** student at UNIFOR (GPA: 3.6/4.0 | PMG: 90%).
-- 👨‍🏫 Teaching Assistant for **Fundamentals of Computer Systems** (Fundamentos de Sistemas Computacionais), providing support and guidance to students.
-- 🚀 Building the **[Super Smash Bros Museum](https://smashcompendium.com/)** using **Next.js**, **Prisma**, **Supabase**, and **Gemini AI**.
-- 🤖 Regularly exploring **AI agents** (Gemini, Claude) and integrating LLMs into modern web apps.
-- 🤝 Looking for help and collaboration on **Decompiles** and **CyberSecurity**.
-- 📚 Currently learning: Advanced Programming Logic, Statistics, Python, and Data Structures.
-- 🌍 Languages: Português (Native), English (C1), 日本語 (N5).
-- 📫 How to reach me: **[andersondelimacomputacao@outlook.com](mailto:andersondelimacomputacao@outlook.com)**
+-  Formation in **Architecture and ArchViz**.
+-  **Computer Science** student at UNIFOR (GPA: 3.6/4.0 | PMG: 90%).
+-  Teaching Assistant for **Fundamentals of Computer Systems** (Fundamentos de Sistemas Computacionais), providing support and guidance to students.
+-  Building the **[Super Smash Bros Museum](https://smashcompendium.com/)** using **Next.js**, **Prisma**, **Supabase**, and **Gemini AI**.
+-  FullStack Developer Engineer
+-  Languages: Português (Native), English (C1), 日本語 (N5).
+-  How to reach me: **[andersondelimacomputacao@outlook.com](mailto:andersondelimacomputacao@outlook.com)**
 
 ---
 
