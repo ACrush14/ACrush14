@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me
 
--  Formation in **Architecture and ArchViz**.
+-  FullStack Developer Engineer
 -  **Computer Science** student at UNIFOR (GPA: 3.6/4.0 | PMG: 90%).
 -  Teaching Assistant for **Fundamentals of Computer Systems** (Fundamentos de Sistemas Computacionais), providing support and guidance to students.
+-  Formation in **Architecture and ArchViz**.
 -  Building the **[Super Smash Bros Museum](https://smashcompendium.com/)** using **Next.js**, **Prisma**, **Supabase**, and **Gemini AI**.
--  FullStack Developer Engineer
 -  Languages: Português (Native), English (C1), 日本語 (N5).
 -  How to reach me: **[andersondelimacomputacao@outlook.com](mailto:andersondelimacomputacao@outlook.com)**
 
