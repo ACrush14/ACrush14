@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anderson (Crush) de Lima</h1>
 
-<h3 align="center">A current IT and Data Science student passionate about web development, AI, and cybersecurity.</h3>
+<h3 align="center">Full Stack Software Engineer.</h3>
 
 <p align="center">
   <a href="https://anderson-crush-dev.vercel.app"><b>🌐 Portfolio</b></a> • 
