@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anderson (Crush) de Lima</h1>
+<h1 align="center">Hi, I'm Anderson (Crush) de Lima</h1>
 
 <h3 align="center">Full-Stack Developer & UI/UX Designer.</h3>
 
