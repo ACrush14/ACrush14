@@ -16,7 +16,6 @@
 -  Full-Stack Developer & UI/UX Designer, with practical experience since 2025 across tech, digital health, and academic research.
 -  **Computer Science** student at UNIFOR (GPA: 3.6/4.0 | PMG: 90%).
 -  Web Design @ **Synapse Lab** — a CNPq/UNIFOR-certified research group, in partnership with UFC.
--  UI/UX Junior @ **Oryon System** — prototyping an ERP/CRM for vehicle tracking.
 -  Volunteer Project Lead @ **[CODA.CE](https://coda-ce.com.br/)** — Ceará's developer community (FrontEnd Day Fortaleza, 72h CODA.CE Hackathon).
 -  Teaching Assistant for **Fundamentals of Computer Systems** (Fundamentos de Sistemas Computacionais), a position awarded on academic merit.
 -  **NASA Space Apps Challenge** — built *Nebula.exe*, a spatial data platform for urban health in Fortaleza (NASA-issued certificate).
